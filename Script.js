@@ -1,5 +1,5 @@
 console.log("portocolo de autentificacion")
 
-const  familia = ["genaro", "daniel"]
+const  familia = ["genaro", "daniel", "saul"]
 
-console.log("familia ")
+console.log(familia)
