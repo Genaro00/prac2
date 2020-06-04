@@ -1,3 +1,28 @@
-.exodo{
-background-color: chocolate;
-}
+.nintendo{
+    background-color: red;
+    color: white;
+    margin: 20px;
+    padding: 20px;
+    width: 27%;
+    float: left;
+      
+  }
+  .playstation{
+      background-color: rgb(11, 4, 100);
+      color: white;
+      margin: 20px;
+      padding: 20px;
+      width: 27%;
+      float: left;
+      
+  }
+  .xbox{
+      background-color: rgb(4, 100, 17);
+      color: white;
+      margin: 20px;
+      padding: 20px;
+      width: 27%;
+      float: left;
+  
+  }
+  
