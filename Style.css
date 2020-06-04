@@ -1,13 +1,27 @@
-.genesis{
-    color: aqua;
-    background-color: #f4f4f4;
-    color: #dd2e2e;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 16px;
-    font-weight: normal;
-    /*same as above*/
-    font: normal Arial, Helvetica, sans-serif;
-    line-height: 1.6em;
-    margin: 0;
+.nintendo{
+  background-color: red;
+  color: white;
+  margin: 20px;
+  padding: 20px;
+  width: 27%;
+  float: left;
     
+}
+.playstation{
+    background-color: rgb(11, 4, 100);
+    color: white;
+    margin: 20px;
+    padding: 20px;
+    width: 27%;
+    float: left;
+    
+}
+.xbox{
+    background-color: rgb(4, 100, 17);
+    color: white;
+    margin: 20px;
+    padding: 20px;
+    width: 27%;
+    float: left;
+
 }
